@@ -18,10 +18,9 @@ y = ax2 +bx +c
 ## FAQ
 
 - What is [gamma correction](docs/led-tricks-gamma-correction.pdf)?
-
+- [ Make sure your optocoupler is properly biased](https://www.edn.com/power-tips-81-make-sure-your-optocoupler-is-properly-biased/)
 - Making circuits
 - https://www.edn.com/power-tips-81-make-sure-your-optocoupler-is-properly-biased/
-
 
 Java version
 http://www.falstad.com/mathphysics.html
