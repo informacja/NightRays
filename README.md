@@ -26,9 +26,14 @@ y = ax2 +bx +c
 
 - What is [gamma correction](docs/led-tricks-gamma-correction.pdf)?
 - [ Make sure your optocoupler is properly biased](https://www.edn.com/power-tips-81-make-sure-your-optocoupler-is-properly-biased/)
-- Making circuits
-- https://www.edn.com/power-tips-81-make-sure-your-optocoupler-is-properly-biased/
 
+- https://www.edn.com/power-tips-81-make-sure-your-optocoupler-is-properly-biased/
+- Pinout 
+[ESP8266 nodemcu v2](docs/esp8266-nodemcu-dev-kit-v2-pins.png)
+[Blue Pill STM32f103](docs\stm32f103c8t6_pinout_voltage01.png)
+Boards up to 2$
+- Making circuits
+  
 Java version
 http://www.falstad.com/mathphysics.html
 
