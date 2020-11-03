@@ -1,4 +1,6 @@
 # Night Rays 
+> Hipoteza: czy wprowadzenie pośrednika podności czy obniża niezawodność?
+
 
 > [ Schemat optoizolacji sygnałów sterujących 3.3V od zasilających 12V P-Mosfet
 ![](docs/circuitP.gif)
