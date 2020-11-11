@@ -3,9 +3,11 @@
 
 
 > [ Schemat optoizolacji sygnałów sterujących 3.3V od zasilających 12V P-Mosfet
+>
 ![](docs/circuitP.gif)
 ](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l5BOJyWoVWCBMcAs+xcA2LBAZizNxDPQFYQ6iAoAZxFwSPCMg9wAcPPiJAAzAIYAbVgFNmANxAB2AdTC8VakFizVRuPmCxRTMOs0PLGx4TZO71zAE4giAoY7d6dPo-Bd7cGx+ITAQvlxlSECSdVt3MNs+MjJ4GI0TZTJuDT5VdU0TABNZSQBXKQAXAFopWWLwJogYY2YAd291ELjffWYAJVC7fDCsIT4TMHhwaDDoBhEF5gBzYfCTUb6oDpUc8ASPA5MYzsS7bNzNMF2iZSmeo42ds6Ove8m-S0gyN0gw7gCOBufQHAD6YDBkDBdAonChsHgCDAdDoWGyuDIyjoYKI0FwULBWAhkLIYIACs5AKCAxQAOqwAHYSenFACWAHtigAvVmyekAGQAogARenGekANV2nCufDotjy4G+v0MRm4aKERFBKIhhIEvDIOKICMgWBx0OJOrJADkJAAHVmATEAAMa8+lc+kAWwAwvSyNAyJLmAAjIJm7iGExIHahjXbOjI8AUHYADw4PxACEidD45A4KhAAFUANaAIUAJHTWKwqrJnOUAFZU50AT2Yad46AE6CICczmwLJfLla5ElYrKkEkbLbbjDNB2svCmaXz1kHFfpdvZgG1AZwNBms51cpvN2m0hnuiTlSRM+lVZxc2Su5lVu-sm+sABcAEpdh9tgVtlOLo7F6MBbCwX99jArJtGgl4tHiGDChEW5-mCExQIiW4fEVUDlG4IC8O4LUjHw+Dzmec4vEI+4QKeTRCLQ3CcIYkM-k8JgQCBBgEAmZgxBBUjiNosAyOmBgwAWDBTWYdkdF+FpGFwWEIBwaS4HCFS50meSaGYIA)
-> Dla uniknięcia rozbłysków przy przerwach w zasilaniu, problem rozwiązany przez zastosowanie tranzystora typu **p**rzewodzącego (domyślna logika układu sterującego to stan niski)
+>
+> W celu uniknięcia rozbłysków przy przerwach w zasilaniu, próba rozwiązania przez zastosowanie tranzystora typu **p**rzewodzącego (domyślna logika układu sterującego to stan niski) **Próba zakończona nieppowodzeniem**
 
 [ Optoizolacja sygnałów sterujących 3.3V od zasilających 12V
 ![](docs/circuit.gif) 
@@ -41,6 +43,9 @@ http://www.falstad.com/mathphysics.html
 
 JS version
 http://lushprojects.com/circuitjs/circuitjs.html
+
+- Czujnik ruchu (odpowiedzi stanu dyskretnego) [XYC-WB-DC](https://pl.aliexpress.com/item/4000027303600.html?src=google&albch=shopping&acnt=494-037-6276&isdl=y&slnk=&plac=&mtctp=&albbt=Gploogle_7_shopping&aff_atform=google&aff_short_key=UneMJZVf&&albagn=888888&albcp=6459787116&albag=77066918093&trgt=883147839979&crea=pl4000027303600&netw=u&device=c&albpg=883147839979&albpd=pl4000027303600&gclid=CjwKCAiAtK79BRAIEiwA4OskBg9nx7xN_k1haTV1RzlB2w8ldtXYYG0JT0f7hNuDv45lhu8bPN5QYRoC15UQAvD_BwE&gclsrc=aw.ds)
+![XYC-WB-DC](docs/XYC-WB-DC.webp)
 
 ### Historia:
 - Poniedziałek: Test sprawności transoptora [PC817](docs/PC817.pdf) i mosfetów [IRF540N](docs/irf540n.pdf)
