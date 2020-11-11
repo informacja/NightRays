@@ -43,7 +43,7 @@ JS version
 http://lushprojects.com/circuitjs/circuitjs.html
 
 - Czujnik ruchu (odpowiedzi stanu dyskretnego) [XYC-WB-DC](https://pl.aliexpress.com/item/4000027303600.html?src=google&albch=shopping&acnt=494-037-6276&isdl=y&slnk=&plac=&mtctp=&albbt=Gploogle_7_shopping&aff_atform=google&aff_short_key=UneMJZVf&&albagn=888888&albcp=6459787116&albag=77066918093&trgt=883147839979&crea=pl4000027303600&netw=u&device=c&albpg=883147839979&albpd=pl4000027303600&gclid=CjwKCAiAtK79BRAIEiwA4OskBg9nx7xN_k1haTV1RzlB2w8ldtXYYG0JT0f7hNuDv45lhu8bPN5QYRoC15UQAvD_BwE&gclsrc=aw.ds)
-![XYC-WB-DC](doks/XYC-WB-DC.webp)
+![XYC-WB-DC](docs/XYC-WB-DC.webp)
 
 ### Historia:
 - Poniedziałek: Test sprawności transoptora [PC817](docs/PC817.pdf) i mosfetów [IRF540N](docs/irf540n.pdf)
