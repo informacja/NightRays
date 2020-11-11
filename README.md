@@ -3,7 +3,7 @@
 > [ Schemat optoizolacji sygnałów sterujących 3.3V od zasilających 12V P-Mosfet
 ![](docs/circuitP.gif)
 ](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l5BOJyWoVWCBMcAs+xcA2LBAZizNxDPQFYQ6iAoAZxFwSPCMg9wAcPPiJAAzAIYAbVgFNmANxAB2AdTC8VakFizVRuPmCxRTMOs0PLGx4TZO71zAE4giAoY7d6dPo-Bd7cGx+ITAQvlxlSECSdVt3MNs+MjJ4GI0TZTJuDT5VdU0TABNZSQBXKQAXAFopWWLwJogYY2YAd291ELjffWYAJVC7fDCsIT4TMHhwaDDoBhEF5gBzYfCTUb6oDpUc8ASPA5MYzsS7bNzNMF2iZSmeo42ds6Ove8m-S0gyN0gw7gCOBufQHAD6YDBkDBdAonChsHgCDAdDoWGyuDIyjoYKI0FwULBWAhkLIYIACs5AKCAxQAOqwAHYSenFACWAHtigAvVmyekAGQAogARenGekANV2nCufDotjy4G+v0MRm4aKERFBKIhhIEvDIOKICMgWBx0OJOrJADkJAAHVmATEAAMa8+lc+kAWwAwvSyNAyJLmAAjIJm7iGExIHahjXbOjI8AUHYADw4PxACEidD45A4KhAAFUANaAIUAJHTWKwqrJnOUAFZU50AT2Yad46AE6CICczmwLJfLla5ElYrKkEkbLbbjDNB2svCmaXz1kHFfpdvZgG1AZwNBms51cpvN2m0hnuiTlSRM+lVZxc2Su5lVu-sm+sABcAEpdh9tgVtlOLo7F6MBbCwX99jArJtGgl4tHiGDChEW5-mCExQIiW4fEVUDlG4IC8O4LUjHw+Dzmec4vEI+4QKeTRCLQ3CcIYkM-k8JgQCBBgEAmZgxBBUjiNosAyOmBgwAWDBTWYdkdF+FpGFwWEIBwaS4HCFS50meSaGYIA)
-> Dla uniknięcia rozbłysków przy przerwach w zasilaniu, problem rozwiązany przez zastosowanie tranzystora typu **p**rzewodzącego (domyślna logika układu sterującego to stan niski)
+> Dla uniknięcia rozbłysków przy przerwach w zasilaniu, próba rozwiązania przez zastosowanie tranzystora typu **p**rzewodzącego (domyślna logika układu sterującego to stan niski) *Niepowodzenie*
 
 [ Optoizolacja sygnałów sterujących 3.3V od zasilających 12V
 ![](docs/circuit.gif) 
