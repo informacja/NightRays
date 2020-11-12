@@ -1,5 +1,5 @@
 # Night Rays 
-> Hipoteza: Wprowadzenie pośrednika podności czy obniża funkcyjność/sprawność/niezawodność układu?
+> Hipoteza: Wprowadzenie pośrednika podności czy obniża funkcyjność układu?
 
 Cele projektowe:
 
