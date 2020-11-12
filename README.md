@@ -7,7 +7,7 @@ Cele projektowe:
 2. Niezawodność
 3. Wykorzystanie tanich i popularnych elementów wykonawczych (analogowych) oraz sterujących (cyfrowych)
 
-### Projekt cyfrowy
+### Projekt cyfrowy (sterowanie wypełnieniem)
 
 > [ Schemat optoizolacji sygnałów sterujących 3.3V od zasilających 12V P-Mosfet
 ![](docs/circuitP.gif)
@@ -22,7 +22,7 @@ Cele projektowe:
 
 ## ToDo
 
-### Projekt analogowy
+### Projekt analogowy (niezależy układ punktowy, samokontrolujący)
 
 ### Liniowe sterowanie jasnością
 ```m
