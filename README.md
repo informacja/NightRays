@@ -5,7 +5,7 @@ Cele projektowe:
 
 1. Prostota
 2. Niezawodność
-3. Wykorzystanie tanich i popularnych elementów wykonawczych (analogowych) oraz sterujących (cyfrowych)
+3. Kontaktowość, czyli wykorzystanie tanich i popularnych elementów wykonawczych (analogowych) oraz sterujących (cyfrowych)
 
 ### Projekt cyfrowy (sterowanie wypełnieniem)
 
