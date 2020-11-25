@@ -64,3 +64,6 @@ Transient?
 - [Superkondensatory chronią węzły IoT przed utratą zasilania](https://elektronikab2b.pl/technika/52804-superkondensatory-chronia-wezly-iot-przed-utrata-zasilania)
 
 - [ Make sure your optocoupler is properly biased](https://www.edn.com/power-tips-81-make-sure-your-optocoupler-is-properly-biased/)
+
+# Warstwa fizyczna rzeczywista
+![](docs/obj.jpg)
