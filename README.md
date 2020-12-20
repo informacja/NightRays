@@ -1,7 +1,7 @@
 # Night Rays 
 > Hipoteza: Wprowadzenie pośrednika podności czy obniża funkcyjność układu?
 
-Cele projektowe:
+Potrzeby projektowe:
 
 1. Prostota
 2. Niezawodność
@@ -68,3 +68,4 @@ Transient?
 
 # Warstwa fizyczna rzeczywista
 ![](docs/obj.jpg)
+![](docs/proV0.jpg)
